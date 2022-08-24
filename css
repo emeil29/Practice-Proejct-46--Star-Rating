@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+.star{
+    font-size:2rem ;
+    color: rgb(175, 222, 232);
+    display: inline;
+}
+.yellow{
+    color: yellow;
+}
+.green{
+    color: green;
+}
+.output{
+    margin: 50px 0;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(219, 196, 224);
+    color: black;
+
+}
